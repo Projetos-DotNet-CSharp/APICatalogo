@@ -1,0 +1,1 @@
+Projeto desenvolvido em .Net 6 e Entity Framework Core.
